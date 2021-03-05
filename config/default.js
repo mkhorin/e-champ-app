@@ -2,7 +2,7 @@
 
 module.exports = {
 
-    title: 'eChamp',
+    title: 'E-Champ',
 
     components: {
         'db': {

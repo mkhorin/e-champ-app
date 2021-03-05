@@ -1,7 +1,7 @@
 {
   "name": "e-champ-app",
-  "version": "1.0.0",
-  "description": "E-Champ app for turn-based multiplayer browser games",
+  "version": "1.1.0",
+  "description": "E-Champ app for turn-based online games",
   "author": "Maxim Khorin",
   "license": "MIT",
   "engines": {
@@ -12,8 +12,8 @@
     "url": "https://github.com/mkhorin/e-champ-app.git"
   },
   "dependencies": {
-    "e-champ": "~1.0.0",
-    "e-champ-durak": "~1.0.0",
+    "e-champ": "~1.1.0",
+    "e-champ-durak": "~1.1.0",
     "e-champ-durak-thrifty": "~1.0.0"
   },
   "scripts": {

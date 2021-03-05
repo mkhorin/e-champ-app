@@ -1,7 +1,7 @@
 # E-Champ App
 
-Server application for multiplayer games 
-built on [E-Champ](https://github.com/mkhorin/e-champ).
+A server-side app for browser online games
+built on [E-Champ platform](https://github.com/mkhorin/e-champ).
 
 #### Available games
 
