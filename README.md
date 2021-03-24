@@ -5,6 +5,7 @@ built on [E-Champ platform](https://github.com/mkhorin/e-champ).
 
 #### Available games
 
+- [Draughts](https://github.com/mkhorin/e-champ-draughts) - a logical game
 - [Durak](https://github.com/mkhorin/e-champ-durak) - a card game
 
 ## Docker installation

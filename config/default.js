@@ -15,6 +15,7 @@ module.exports = {
         },
         'arena': {
             games: {
+                'draughts': require('./default-game-draughts'),
                 'durak': require('./default-game-durak')
             }
         }

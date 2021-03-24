@@ -5,7 +5,7 @@
 
 const Base = require('e-champ/Application');
 
-module.exports = class ChampApplication extends Base {
+module.exports = class EChampApplication extends Base {
     
     constructor (config) {
         super({
