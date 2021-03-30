@@ -3,6 +3,8 @@
 A server-side app for browser online games
 built on [E-Champ platform](https://github.com/mkhorin/e-champ).
 
+[Live demo](http://nervebit.com/e-champ)
+
 #### Available games
 
 - [Draughts](https://github.com/mkhorin/e-champ-draughts) - a logical game
