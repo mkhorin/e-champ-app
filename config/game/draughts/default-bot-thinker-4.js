@@ -10,7 +10,7 @@ module.exports = {
     params: {
         ...defaults.params,
 
-        depth: [4, 5]
+        depth: [7, 8]
     },
     translations: {
         'ru': {
