@@ -3,6 +3,8 @@
 A server-side app for browser online games
 built on [E-Champ platform](https://github.com/mkhorin/e-champ).
 
+Game bots can be used both instead of and together with online opponents.
+
 [Details](http://nervebit.com/e-champ)
 
 #### Available games
