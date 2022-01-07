@@ -6,8 +6,9 @@
  */
 const Application = require('../Application');
 const Console = require('evado/console/Console');
+const AssetConsole = require('e-champ/console/AssetConsole');
 const params = Console.parseProcessArguments();
-const instance = new Console({Application, params});
+const instance = new Console({Application, AssetConsole, params});
 
 (async () => {
     await instance.installAssets();
