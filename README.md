@@ -5,14 +5,14 @@ built on [E-Champ platform](https://github.com/mkhorin/e-champ).
 
 Game bots can be used both instead of and together with online opponents.
 
-[Details](http://nervebit.com/e-champ)
+[Details](https://mkhorin.github.io/e-champ-site)
 
 #### Available games
 
 - [Draughts](https://github.com/mkhorin/e-champ-draughts) - a logical game
 - [Durak](https://github.com/mkhorin/e-champ-durak) - a card game
 
-![E-Champ Online Games](doc/screen-01.png)
+[![E-Champ platform for online games](doc/screen-01.png)](https://mkhorin.github.io/e-champ-site)
 
 ## Docker installation
 
