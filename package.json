@@ -1,6 +1,6 @@
 {
   "name": "e-champ-app",
-  "version": "2.6.0",
+  "version": "2.7.0",
   "description": "E-Champ app for turn-based online games",
   "author": "Maxim Khorin",
   "license": "MIT",
@@ -12,7 +12,7 @@
     "url": "https://github.com/mkhorin/e-champ-app.git"
   },
   "dependencies": {
-    "e-champ": "~2.6.0",
+    "e-champ": "~2.7.0",
     "e-champ-draughts": "~1.3.0",
     "e-champ-draughts-thinker": "~2.1.0",
     "e-champ-durak": "~1.4.0",
